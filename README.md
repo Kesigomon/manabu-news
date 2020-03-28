@@ -1,0 +1,2 @@
+# manabu-news
+まなぶニュースグローバルBOT
